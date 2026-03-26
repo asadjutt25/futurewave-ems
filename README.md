@@ -94,7 +94,7 @@ Admin	asadshabbir7373@gmail.com
 Employee	asadshabbir00025@gmail.com
 	asadasad
 
-    ## 📸 Screenshots
+ ## 📸 Screenshots
 
 ### Admin Dashboard
 ![Dashboard](screenshots/admin-dashboard.png)
