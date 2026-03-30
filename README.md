@@ -97,16 +97,16 @@ Employee	asadshabbir00025@gmail.com
  ## 📸 Screenshots
 
 ### Admin Dashboard
-![Admin Dashboard](screenshots/admin-dashboard.png)
+![Admin Dashboard](screenshots/admin-Dashboard.png)
 
 ### Employee Dashboard
-![Employee Dashboard](screenshots/employee-dashboard.png)
+![Employee Dashboard](screenshots/employee-Dashboard.png)
 
 ### Employees List
 ![Employees List](screenshots/employees-List.png)
 
 ### Reports Dashboard
-![Reports Dashboard](screenshots/reports-dashboard.png)
+![Reports Dashboard](screenshots/reports-Dashboard.png)
 
 
 
