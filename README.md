@@ -97,17 +97,16 @@ Employee	asadshabbir00025@gmail.com
  ## 📸 Screenshots
 
 ### Admin Dashboard
-![Dashboard](screenshots/admin-dashboard.png)
+![Dashboard](https://via.placeholder.com/800x400?text=Admin+Dashboard)
 
 ### Employees Dashboard
-![Employees](screenshots/employees-dashboard.png)
+![Employees](https://via.placeholder.com/800x400?text=Employees+Dashboard)
 
 ### Reports Dashboard
-![Reports](screenshots/reports-dashboard.png)
+![Reports](https://via.placeholder.com/800x400?text=Reports+Dashboard)
 
 ### Employees List
-![Employees List](screenshots/employees-list.png)
-
+![Employees List](https://via.placeholder.com/800x400?text=Employees+List)
     👨‍💻 Author
 
 Asad Shabbir
