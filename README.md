@@ -94,18 +94,19 @@ Admin	asadshabbir7373@gmail.com
 Employee	asadshabbir00025@gmail.com
 	asadasad
 
- ## 📸 Screenshots
-### Admin Dashboard
-![Admin Dashboard](screenshots/admin-dashboard.png)
+Admin Dashboard
+https://raw.githubusercontent.com/asadjutt25/futurewave-ems/main/screenshots/admin-dashboard.png
 
-### Employee Dashboard
-![Employee Dashboard](screenshots/employee-dashboard.png)
+Employee Dashboard
+https://raw.githubusercontent.com/asadjutt25/futurewave-ems/main/screenshots/employee-dashboard.png
 
-### Employees List
-![Employees List](screenshots/employees-list.png)
+Employees List
+https://raw.githubusercontent.com/asadjutt25/futurewave-ems/main/screenshots/employees-list.png
 
-### Reports Dashboard
-![Reports Dashboard](screenshots/reports-dashboard.png)
+Reports Dashboard
+https://raw.githubusercontent.com/asadjutt25/futurewave-ems/main/screenshots/reports-dashboard.png
+
+
 
 
 
