@@ -95,18 +95,19 @@ Employee	asadshabbir00025@gmail.com
 	asadasad
 
  ## 📸 Screenshots
+## 📸 Screenshots
 
 ### Admin Dashboard
-![Admin Dashboard](screenshots/admin-Dashboard.png)
+![Admin Dashboard](https://raw.githubusercontent.com/asadjutt25/futurewave-ems/main/screenshots/admin-Dashboard.png)
 
 ### Employee Dashboard
-![Employee Dashboard](screenshots/employee-Dashboard.png)
+![Employee Dashboard](https://raw.githubusercontent.com/asadjutt25/futurewave-ems/main/screenshots/employee-dashboard.png)
 
 ### Employees List
-![Employees List](screenshots/employees-List.png)
+![Employees List](https://raw.githubusercontent.com/asadjutt25/futurewave-ems/main/screenshots/employees-list.png)
 
 ### Reports Dashboard
-![Reports Dashboard](screenshots/reports-Dashboard.png)
+![Reports Dashboard](https://raw.githubusercontent.com/asadjutt25/futurewave-ems/main/screenshots/reports-dashboard.png)
 
 
 
